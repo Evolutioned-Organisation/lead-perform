@@ -12,5 +12,7 @@
 
 [Requirements Specification](requirements-specification.md)
 
+[Priming - with document](priming-with-document.md)
+
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
