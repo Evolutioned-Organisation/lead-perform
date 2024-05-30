@@ -10,5 +10,7 @@
 
 [Conciseness](Conciseness.md)
 
+[Requirements Specification](requirements-specification.md)
+
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
