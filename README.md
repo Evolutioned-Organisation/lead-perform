@@ -12,7 +12,7 @@
 
 [Requirements Specification](requirements-specification.md)
 
-[Explore Leadership][explore-leader.md]
+[Explore Leadership](explore-leader.md)
 
 [Help with Analytics](help-analytics.md)
 
