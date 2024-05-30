@@ -12,10 +12,15 @@
 
 [Requirements Specification](requirements-specification.md)
 
-[Priming - with document](priming-with-document.md)
+[Explore Leadership][explore-leader.md]
+
+[Help with Analytics](help-analytics.md)
+
 
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
 
 # Techniques
 [teach me](teach-me-technique.md)
+
+[Priming - with document](priming-with-document.md)
