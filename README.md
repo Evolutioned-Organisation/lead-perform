@@ -16,3 +16,6 @@
 
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
+
+# Techniques
+[teach me](teach-me-technique.md)
