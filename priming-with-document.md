@@ -3,7 +3,7 @@ Priming helps by putting the larger context into the memory of the LLM (context 
 
 Useful for situations where you need to include larger contexts, such as analysing documents. 
 
-## Example - Aligning your Teacher to the Strategic Plan specifically around Lead and Perform 
+## Example - Aligning your Teaching to the Strategic Plan specifically around Lead and Perform 
 
 1. Download the [Chisholm Strategic Plan](https://mc-144d79d2-0071-496e-ac6f-746126-cdn-endpoint.azureedge.net/-/media/files/about/publications/strategic-plan.pdf?rev=4bf3e11fc31347f1a5b18decc821210a&hash=A977DA0ABCF8E1B44A5C2854C63CE8F5) 
 2. Add the strategic plan pdf to the chat window
