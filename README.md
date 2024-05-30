@@ -8,5 +8,7 @@
 
 [I teach computer programming](software-engineering-teacher.md)
 
+[Conciseness](Conciseness.md)
+
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)

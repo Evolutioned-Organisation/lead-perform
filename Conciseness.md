@@ -1,0 +1,1 @@
+Give me an agenda for a staff meeting at an Educational Institute for vocational training day, where the staff will be discussing matters relating to the incorporation of AI, how the students can benefit and how the teachers can ensure they lead and perform well with it.
