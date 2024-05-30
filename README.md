@@ -16,7 +16,7 @@
 
 [Help with Analytics](help-analytics.md)
 
-[prompt-coaching.md](prompt-coaching.md)
+[Prompt Coaching](prompt-coaching.md)
 
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
