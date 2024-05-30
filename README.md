@@ -6,5 +6,7 @@
 
 [Delimiter Example](Delimiter-Example.md)
 
+[I teach computer programming](software-engineering-teacher.md)
+
 # Exercises
 [Course Outline to Rubric](CourseOutlineToRubric.md)
