@@ -1,4 +1,6 @@
-###INSTRUCTIONS###
+# Requirement Specification Example
+
+```INSTRUCTIONS```
 
 I need to create a policy document for our organization that complies with the [Insert Regulation Name] and meets our specific content requirements. Below are the detailed requirements for the policy document:
 
@@ -51,4 +53,3 @@ I need to create a policy document for our organization that complies with the [
 - Data subjects have the right to request access to their personal data by contacting [Contact Information]...
 
 Use the above specifications to draft a comprehensive Data Protection and Privacy Policy for our organization.
-
